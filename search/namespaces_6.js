@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['airfoil_11955',['Airfoil',['http://www.dealii.org/developer/doxygen/deal.II/namespaceGridGenerator_1_1Airfoil.html',1,'GridGenerator']]],
+  ['boundingboxpredicate_11956',['BoundingBoxPredicate',['http://www.dealii.org/developer/doxygen/deal.II/namespaceGridTools_1_1internal_1_1BoundingBoxPredicate.html',1,'GridTools::internal']]],
+  ['coordinates_11957',['Coordinates',['http://www.dealii.org/developer/doxygen/deal.II/namespaceGeometricUtilities_1_1Coordinates.html',1,'GeometricUtilities']]],
+  ['distributed_5fcptloc_11958',['distributed_cptloc',['http://www.dealii.org/developer/doxygen/deal.II/namespaceGridTools_1_1internal_1_1distributed__cptloc.html',1,'GridTools::internal']]],
+  ['fixupdistortedchildcells_11959',['FixUpDistortedChildCells',['http://www.dealii.org/developer/doxygen/deal.II/namespaceGridTools_1_1internal_1_1FixUpDistortedChildCells.html',1,'GridTools::internal']]],
+  ['geometricutilities_11960',['GeometricUtilities',['http://www.dealii.org/developer/doxygen/deal.II/namespaceGeometricUtilities.html',1,'']]],
+  ['ginkgowrappers_11961',['GinkgoWrappers',['http://www.dealii.org/developer/doxygen/deal.II/namespaceGinkgoWrappers.html',1,'']]],
+  ['gmsh_11962',['Gmsh',['http://www.dealii.org/developer/doxygen/deal.II/namespaceGmsh.html',1,'']]],
+  ['graphcoloring_11963',['GraphColoring',['http://www.dealii.org/developer/doxygen/deal.II/namespaceGraphColoring.html',1,'']]],
+  ['gridgenerator_11964',['GridGenerator',['http://www.dealii.org/developer/doxygen/deal.II/namespaceGridGenerator.html',1,'']]],
+  ['gridoutflags_11965',['GridOutFlags',['http://www.dealii.org/developer/doxygen/deal.II/namespaceGridOutFlags.html',1,'']]],
+  ['gridrefinement_11966',['GridRefinement',['http://www.dealii.org/developer/doxygen/deal.II/namespaceGridRefinement.html',1,'']]],
+  ['gridtools_11967',['GridTools',['http://www.dealii.org/developer/doxygen/deal.II/namespaceGridTools.html',1,'']]],
+  ['internal_11968',['internal',['http://www.dealii.org/developer/doxygen/deal.II/namespaceGraphColoring_1_1internal.html',1,'GraphColoring::internal'],['http://www.dealii.org/developer/doxygen/deal.II/namespaceGridTools_1_1internal.html',1,'GridTools::internal']]],
+  ['solverbicgstab_11969',['SolverBicgstab',['http://www.dealii.org/developer/doxygen/deal.II/structGinkgoWrappers_1_1SolverBicgstab_1_1AdditionalData.html',1,'GinkgoWrappers']]],
+  ['solvercg_11970',['SolverCG',['http://www.dealii.org/developer/doxygen/deal.II/structGinkgoWrappers_1_1SolverCG_1_1AdditionalData.html',1,'GinkgoWrappers']]],
+  ['solvercgs_11971',['SolverCGS',['http://www.dealii.org/developer/doxygen/deal.II/structGinkgoWrappers_1_1SolverCGS_1_1AdditionalData.html',1,'GinkgoWrappers']]],
+  ['solverfcg_11972',['SolverFCG',['http://www.dealii.org/developer/doxygen/deal.II/structGinkgoWrappers_1_1SolverFCG_1_1AdditionalData.html',1,'GinkgoWrappers']]],
+  ['solvergmres_11973',['SolverGMRES',['http://www.dealii.org/developer/doxygen/deal.II/structGinkgoWrappers_1_1SolverGMRES_1_1AdditionalData.html',1,'GinkgoWrappers']]],
+  ['solverir_11974',['SolverIR',['http://www.dealii.org/developer/doxygen/deal.II/structGinkgoWrappers_1_1SolverIR_1_1AdditionalData.html',1,'GinkgoWrappers']]]
+];
